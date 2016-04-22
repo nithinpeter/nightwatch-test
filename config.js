@@ -1,8 +1,8 @@
 module.exports = {
     dev: {
         baseUrl: 'http://frontendserver:3000/',
-        userName: 'nithinpeter7@gmail.com',
-        password: 'malayalam'
+        userName: 'USERNAME',
+        password: 'PWORD'
     },
     prod: {
         baseUrl: 'http://jugglestreet.com/'
